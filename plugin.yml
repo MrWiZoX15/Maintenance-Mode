@@ -1,0 +1,9 @@
+name: BadMaintenance
+author: MrWiZoX
+version: 1.0
+main: fr.mrwizox.badblock.Main
+load: STARTUP
+commands:
+    maintenanceserver:
+        description: BadMaintenance
+        usage: /maintenanceserver <on> ou <off>
